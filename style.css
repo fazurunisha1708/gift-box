@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#red{
+    position: absolute;
+    padding-left: 39.8vw;
+    padding-bottom: 5vh;
+}
+#grey{
+    position: absolute;
+    padding-left: 10vw;
+    padding-top: 20vh;
+}
+#ribbon{
+    height: 30vh;
+    width: 20vw;
+    position: absolute;
+}
+#pic{
+    height: 70vh;
+    width: 80vw;
+    position: absolute;
+}
+#contents{
+    position: absolute;
+    padding-left: 34.8vw;
+    padding-top: 24.5vh;
+    text-align: center;
+    font-size: 1.5em;
+}
+#textBox{
+    height: 3.5vh;
+    width: 20vw;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    font-size: 0.6em;
+}
+#generatebutton{
+    height: 3.5vh;
+    width: 10vw;
+    font-size: 0.6em;
+}
+#grid{
+    position: absolute;
+    height: 40vh;
+    width: 40vw;
+    background-color: #ffffff;
+    margin-left: 30vw;
+    margin-top: 43.5vh;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#star{
+    font-size: 2.5em;
+    padding-left: 0.5vw;
+    padding-top: 0.5vh;
+}
